@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, react native, Next.js, Supabase, MongoDB, etc.**
 
-- 📫 How to reach me **somnath6das@gmail.com**
+- 📫 How to reach me **somnath8das@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/som.react) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somnath6das@gmail.com) 
