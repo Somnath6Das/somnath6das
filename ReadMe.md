@@ -26,5 +26,12 @@
 <p><a href="https://ko-fi.com/coding_ideas"> <img align="left" src="https://storage.ko-fi.com/cdn/useruploads/26713482-7aa8-48f3-9269-f50e74292477_d33a0b94-982a-4a4e-ac2e-dd6f28ae47ce.png" height="50" width="50" alt="som.react" /></a></p><br><br></div>
 
 
+<a href="https://ko-fi.com/coding_ideas" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+  <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" style="height: 36px; margin-right: 8px;" />
+  <span style="font-size: 16px; color: #29abe0;">Support me</span>
+</a>
+
+
+
   
 
